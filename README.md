@@ -23,8 +23,9 @@
 
 ## ⚙ Projects
 
-[📄 포트폴리오/프로젝트 보기](./portfolio.pdf)
+[📄 포트폴리오/주요 프로젝트 보기](./portfolio.pdf)
 
+<a href="https://www.notion.so/8570eeb299d441999f6358163d08b41b?v=3efd75d150114199b40c73dfd8e8247e&source=copy_link" target="_blank"> 전체 프로젝트 보기 <br>
 <!-- // 🔊 <a target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
 
 // 🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
