@@ -15,28 +15,32 @@
 ## 💼 Career
 <div align="center">
 <table>
-  <tr> <th>기업명</th> <th>기간</th> <th>직무/직책</th> <th>비고</th> </tr>
-  <tr> <td><a href="https://www.kolonbenit.com/main/index.do" target="_blank">KOLON BENIT</a> </td> <td>2025.09.01 ~ </td> <td align="center">시스템 개발 (Java)</td> <td align="center">·</td> </tr>
+  <tr> <th>기업명</th> <th>기간</th> <th>부서</th> <th>직책</th> </tr>
+  <tr> <td><a target="_blank">솔닥</a> </td> <td>2024.06.24 ~ 2024.08.19</td> <td align="center"> 개발팀</td> <td align="center">인턴</td> </tr>
+  <tr> <td><a target="_blank">LG전자</a> </td> <td>2018.02.03 ~ 2018.09.26</td> <td align="center"> 자재부</td> <td align="center">사원</td> </tr>
 </table>
 </div>
 
 ## ⚙ Projects
-🔊 <a href="https://github.com/gyudol/voida" target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
+## 🔊 <a target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
 
-🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
+## 🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
 
-🛍️ <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br>
+## 🛍️ <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br>
 
-💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
+## 💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
 
-🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
+## 🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
 
 ## 🏆 Awards
-🥇 삼성 청년 SW 아카데미 13기 <a href="https://github.com/gyudol/voida" target="_blank">2학기 공통 프로젝트</a> **최우수상** (2025.08.18) <br>
-
-🥉 삼성 청년 SW 아카데미 13기 <a href="https://www.ssafy.com/ksp/servlet/swp.content.controller.SwpContentServlet?p_content_cd=C0102&p_menu_cd=M0102&p_process=select-content-view">1학기 코딩 집중 과정</a> 종합 성적 **우수상** (2025.05.30) <br>
-
-🥈 (주)신세계 I&C 스파로스 아카데미 5기 <a href="https://github.com/mul-meong" target="_blank">기업 연계 프로젝트</a> **우수상** (2024.12.19)
+🥈 신한은행 해커톤 With SSAFY <a target="_blank">비금융 서비스 '헤이루틴'</a> 우수상 (2025.08.31)
+🥇 USG 코딩 오픈메타캠퍼스 <a target="_blank">플랫폼비즈니스 2기 과정 경진대회</a> 대상 (2025.02.19)
+🥈 제33회 연구성과 경진대회 및 SW 전시회 <a target="_blank">경상국립대학교</a> 우수상 (2024.12.09)
+🥇 산업시스템공학부 대학생 프로젝트 경진대회 <a target="_blank">LLM 서비스 'Dumlink'</a> 최우수상 (2024.09.20)
+🏅 제32회 소프트웨어 전시회 <a target="_blank">경상국립대학교</a> 장려상 (2023.12.07)
+🎖 제3회 경남 소프트웨어 경진대회 <a target="_blank">경남ICT협회</a> 입상 (2023.11.03)
+🥇 지식재산-빅데이터 경진대회 <a target="_blank">경상국립대학교</a> 최우수상 (2023.06.09)
+🥈 산업시스템공학부 제조제품 데이터마이닝 경진대회 <a target="_blank">경상국립대학교</a> 우수상 (2022.10.25)
 <br><br>
 
 ## 🛠 Skills
