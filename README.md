@@ -22,16 +22,17 @@
 </div>
 
 ## ⚙ Projects
-// 🔊 <a target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
+<!-- // 🔊 <a target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
 
 // 🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
 
 // 🛍️ <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br>
 
-// 💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
+// 💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App
 
  🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
-
+ -->
+ 
 ## 🏆 Awards
 🥈 신한은행 해커톤 With SSAFY <a target="_blank">비금융 서비스 '헤이루틴'</a> 우수상 (2025.08.31)<br><br>
 🥇 USG 코딩 오픈메타캠퍼스 <a target="_blank">플랫폼비즈니스 2기 과정 경진대회</a> 대상 (2025.02.19))<br><br>
@@ -49,13 +50,14 @@
 <summary>🔍 <strong>View Detail</strong></summary>
 <div align="center"> <br>
 
+
+
 | 분류 | 기술 스택 |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
-| **<div align="center">💻 Language / Markup</div>** | <div align="center">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white) ![PHP](https://img.shields.io/badge/php-777BB4.svg?\&style=for-the-badge\&logo=php\&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?\&style=for-the-badge\&logo=HTML5\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white) --></div> |
-| **<div align="center">🛢️ 	DBMS / Messaging</div>** | <div align="center">![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?\&style=for-the-badge\&logo=MySQL\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge\&logo=elasticsearch\&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge\&logo=apachekafka)</div> |
-| **<div align="center">📊 Visualization</div>** | <div align="center">![Kibana](https://img.shields.io/badge/kibana-005571?style=for-the-badge\&logo=kibana\&logoColor=white)</div> |
-| **<div align="center">✅ Test</div>** | <div align="center">![Apache JMeter](https://img.shields.io/badge/apachejmeter-D22128?style=for-the-badge\&logo=apachejmeter\&logoColor=white) ![Lighthouse](https://img.shields.io/badge/lighthouse-F44B21?style=for-the-badge\&logo=lighthouse\&logoColor=white)</div> |
-| **<div align="center">📱 Frontend / Mobile Framework</div>** | <div align="center">![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)</div> |
+| **<div align="center">💻 Language / Markup</div>** | <div align="center">![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?\&style=for-the-badge\&logo=HTML5\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- ![Kotlin](https://img.shields.io/badge/kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white) --></div> |
+| **<div align="center">🛢️ 	DBMS / Messaging</div>** | <div align="center">![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?\&style=for-the-badge\&logo=MySQL\&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge\&logo=apachekafka)</div> |
+| **<div align="center">✅ Test</div>** | <div align="center">![Apache JMeter](https://img.shields.io/badge/apachejmeter-D22128?style=for-the-badge\&logo=apachejmeter\&logoColor=white) |
+| **<div align="center">📱 Frontend / Mobile Framework</div>** | <div align="center">![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)</div> |
 | **<div align="center">📡 Backend Framework / Library</div>** | <div align="center">![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?\&style=for-the-badge\&logo=springboot\&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=Hibernate\&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge\&logo=swagger\&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-ED1C24.svg?style=for-the-badge&logo=mybatis&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=ffdd54)</div> |
 | **<div align="center">🔐 Auth / Security</div>** | <div align="center">![Spring Security](https://img.shields.io/badge/springsecurity-6DB33F.svg?\&style=for-the-badge\&logo=springsecurity\&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)</div> |
 | **<div align="center">🌐 External API</div>** | <div align="center">![OpenAI](https://img.shields.io/badge/openAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)</div> |
