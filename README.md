@@ -22,26 +22,26 @@
 </div>
 
 ## ⚙ Projects
-## 🔊 <a target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
+// 🔊 <a target="_blank">보이다 (VOIDA)</a> : 구화를 활용하여 **청각장애인과 비장애인이 실시간으로 소통**할 수 있는 커뮤니케이션 서비스 <br>
 
-## 🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
+// 🐟 <a href="https://github.com/mul-meong" target="_blank">꾸아 (Qua)</a> : 반려어와 수족관에 대한 다양한 정보와 경험을 공유하는 커뮤니티, **반려어 SNS** (MSA, CQRS 도입) <br>
 
-## 🛍️ <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br>
+// 🛍️ <a href="https://github.com/jokim-bizarre-adventure" target="_blank">S.I.VILLAGE</a> : 신세계 인터내셔날 공식몰 **S.I.VILLAGE 리빌딩** 프로젝트 <br>
 
-## 💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
+// 💰 <a href="https://github.com/gyudol/finance-palette" target="_blank">금융팔레트</a> : 금융감독원에 등록된 140여 개 금융기관의 **모든 금융상품을 종합적으로 비교 및 조회**할 수 있는 Application <br> <!-- 국내 제1·2금융권이 판매 중인 1,300개 이상의 다양한 금융 상품을 비교해서 보여주고 추천해주는 App -->
 
-## 🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
+ 🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
 
 ## 🏆 Awards
-🥈 신한은행 해커톤 With SSAFY <a target="_blank">비금융 서비스 '헤이루틴'</a> 우수상 (2025.08.31)
-🥇 USG 코딩 오픈메타캠퍼스 <a target="_blank">플랫폼비즈니스 2기 과정 경진대회</a> 대상 (2025.02.19)
-🥈 제33회 연구성과 경진대회 및 SW 전시회 <a target="_blank">경상국립대학교</a> 우수상 (2024.12.09)
-🥇 산업시스템공학부 대학생 프로젝트 경진대회 <a target="_blank">LLM 서비스 'Dumlink'</a> 최우수상 (2024.09.20)
-🏅 제32회 소프트웨어 전시회 <a target="_blank">경상국립대학교</a> 장려상 (2023.12.07)
-🎖 제3회 경남 소프트웨어 경진대회 <a target="_blank">경남ICT협회</a> 입상 (2023.11.03)
-🥇 지식재산-빅데이터 경진대회 <a target="_blank">경상국립대학교</a> 최우수상 (2023.06.09)
-🥈 산업시스템공학부 제조제품 데이터마이닝 경진대회 <a target="_blank">경상국립대학교</a> 우수상 (2022.10.25)
-<br><br>
+🥈 신한은행 해커톤 With SSAFY <a target="_blank">비금융 서비스 '헤이루틴'</a> 우수상 (2025.08.31)<br>
+🥇 USG 코딩 오픈메타캠퍼스 <a target="_blank">플랫폼비즈니스 2기 과정 경진대회</a> 대상 (2025.02.19))<br>
+🥈 제33회 연구성과 경진대회 및 SW 전시회 <a target="_blank">경상국립대학교</a> 우수상 (2024.12.09))<br>
+🥇 산업시스템공학부 대학생 프로젝트 경진대회 <a target="_blank">LLM 서비스 'Dumlink'</a> 최우수상 (2024.09.20))<br>
+🏅 제32회 소프트웨어 전시회 <a target="_blank">경상국립대학교</a> 장려상 (2023.12.07))<br>
+🎖 제3회 경남 소프트웨어 경진대회 <a target="_blank">경남ICT협회</a> 입상 (2023.11.03))<br>
+🥇 지식재산-빅데이터 경진대회 <a target="_blank">경상국립대학교</a> 최우수상 (2023.06.09))<br>
+🥈 산업시스템공학부 제조제품 데이터마이닝 경진대회 <a target="_blank">경상국립대학교</a> 우수상 (2022.10.25))<br>
+
 
 ## 🛠 Skills
 <div align="center">
