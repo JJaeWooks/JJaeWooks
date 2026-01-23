@@ -77,6 +77,8 @@
   <tr> <th>교육기관</th> <th>기간</th> <th>비고</th> </tr>
   <tr> <td>삼성 청년 SW 아카데미 <a href="https://www.ssafy.com" target="_blank">SSAFY</a> 13기 이수</td> <td>2025.01.07 ~ 2025.12.31</td> <td align="center">- 이달의 맴버 선정<br>- 삼성 SW 역량 테스트 <strong>A 등급</strong> 취득<br>- 기업연계 프로젝트 진행</td> </tr>
   <tr> <td> <a target="_blank">USG 오픈메타 플랫폼 비즈니스 </a> 본과정 수료</td> <td>2024.09.01 ~ 2025.01.06</td> <td align="center">- 부트캠프 경진대회 대상 수상</td> </tr>
+  <tr> <td> <a target="_blank">KT&G 상상유니브 </a> 17기 수료</td> <td>2024.02. ~ 2024.09.</td> <td align="center">- 마케팅 및 기획 학습</td> </tr>
+  <tr> <td> <a target="_blank">UMC</a> 4기</td> <td>2023.03. ~ 2023.08.</td> <td align="center">- 전국 연합 코딩 동아리 백엔드 학습</td> </tr>
   <tr> <td>경상국립대학교 산업시스템공학부 <br>(복수 컴퓨터공학부) 졸업</td> <td>2019.03.02 ~ 2025.02.25</td> <td align="center">[평점 평균: <strong>3.75</strong> / 4.5]<br>[전공 평점: <strong>3.75</strong> / 4.5]</td> </tr>
   <tr> <td>창원기계공업고등학교 메카트로닉스학과 졸업</td> <td>2015.03. ~ 2018.02.</td> <td align="center">·</td> </tr>
 </table>
