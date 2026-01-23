@@ -33,13 +33,13 @@
  🔰 <a href="https://github.com/gyudol/programmers-stats" target="_blank">Programmers Stats</a> : GitHub에서 **프로그래머스 문제 풀이 현황을 한눈에!** 자동 갱신되는 배지 생성 프로젝트 <br><br>
 
 ## 🏆 Awards
-🥈 신한은행 해커톤 With SSAFY <a target="_blank">비금융 서비스 '헤이루틴'</a> 우수상 (2025.08.31)<br>
-🥇 USG 코딩 오픈메타캠퍼스 <a target="_blank">플랫폼비즈니스 2기 과정 경진대회</a> 대상 (2025.02.19))<br>
-🥈 제33회 연구성과 경진대회 및 SW 전시회 <a target="_blank">경상국립대학교</a> 우수상 (2024.12.09))<br>
-🥇 산업시스템공학부 대학생 프로젝트 경진대회 <a target="_blank">LLM 서비스 'Dumlink'</a> 최우수상 (2024.09.20))<br>
-🏅 제32회 소프트웨어 전시회 <a target="_blank">경상국립대학교</a> 장려상 (2023.12.07))<br>
-🎖 제3회 경남 소프트웨어 경진대회 <a target="_blank">경남ICT협회</a> 입상 (2023.11.03))<br>
-🥇 지식재산-빅데이터 경진대회 <a target="_blank">경상국립대학교</a> 최우수상 (2023.06.09))<br>
+🥈 신한은행 해커톤 With SSAFY <a target="_blank">비금융 서비스 '헤이루틴'</a> 우수상 (2025.08.31)<br><br>
+🥇 USG 코딩 오픈메타캠퍼스 <a target="_blank">플랫폼비즈니스 2기 과정 경진대회</a> 대상 (2025.02.19))<br><br>
+🥈 제33회 연구성과 경진대회 및 SW 전시회 <a target="_blank">경상국립대학교</a> 우수상 (2024.12.09))<br><br>
+🥇 산업시스템공학부 대학생 프로젝트 경진대회 <a target="_blank">LLM 서비스 'Dumlink'</a> 최우수상 (2024.09.20))<br><br>
+🏅 제32회 소프트웨어 전시회 <a target="_blank">경상국립대학교</a> 장려상 (2023.12.07))<br><br>
+🎖 제3회 경남 소프트웨어 경진대회 <a target="_blank">경남ICT협회</a> 입상 (2023.11.03))<br><br>
+🥇 지식재산-빅데이터 경진대회 <a target="_blank">경상국립대학교</a> 최우수상 (2023.06.09))<br><br>
 🥈 산업시스템공학부 제조제품 데이터마이닝 경진대회 <a target="_blank">경상국립대학교</a> 우수상 (2022.10.25))<br>
 
 
