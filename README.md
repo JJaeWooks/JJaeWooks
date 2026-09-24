@@ -16,6 +16,7 @@
 <div align="center">
 <table>
   <tr> <th>기업명</th> <th>기간</th> <th>부서</th> <th>직책</th> </tr>
+  <tr> <td><a target="_blank">BNK시스템</a> </td> <td>2026.03.19 ~ ing</td> <td align="center"> 개발팀</td> <td align="center">인턴</td> </tr>
   <tr> <td><a target="_blank">솔닥</a> </td> <td>2024.06.24 ~ 2024.08.19</td> <td align="center"> 개발팀</td> <td align="center">인턴</td> </tr>
   <tr> <td><a target="_blank">LG전자</a> </td> <td>2018.02.03 ~ 2018.09.26</td> <td align="center"> 자재부</td> <td align="center">사원</td> </tr>
 </table>
